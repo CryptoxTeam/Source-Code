@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2022-03-15
+*/
+
 pragma solidity ^0.8.2;
 
 contract Token {
